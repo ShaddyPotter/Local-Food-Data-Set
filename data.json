@@ -1095,8 +1095,18 @@
         
         "location":"https://maps.app.goo.gl/KyBLCV2qCwijAVaR9"
 
-
-
-    
-	}	
+	}, 
+	{
+        "id": 89,
+        "placeOfOrigin": "India",
+        "region": "Telangana",
+        "city": "Hyderabad",
+        "food" : "Chicken Tikka Biryani",
+        "type": "Lunch and Dinner",
+        "foodEnergy": "511 cal",
+        "rating": "4.8",
+        "image": "http://www.tasty-indian-recipes.com/wp-content/uploads/2014/07/Chicken-Tikka-Biryani.jpg",
+        "location": "https://maps.app.goo.gl/ZyUVMxiYQCQTuBGV9"
+"
+    }
 ]
